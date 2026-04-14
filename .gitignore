@@ -1,5 +1,8 @@
 site/
 docs/
+.venv/
+__pycache__/
+*.pyc
 .obsidian/
 .vscode/
 .DS_Store
