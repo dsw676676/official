@@ -1,6 +1,6 @@
 site_name: 选调准备系统
 site_description: 选调生与考公准备资料库
-docs_dir: .
+docs_dir: docs
 site_dir: site
 use_directory_urls: true
 strict: true
